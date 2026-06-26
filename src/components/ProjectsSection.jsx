@@ -12,7 +12,7 @@ export default function ProjectsSection() {
       title: "Pet Shop Web Application",
       desc: "Built a full-stack e-commerce platform for pet products with secure user authentication, product catalog management, shopping cart, order processing, and an intuitive responsive interface for seamless online shopping.",
       techs: ["React", "Node.js", "MongoDB", "Bootstrap"],
-      date: "2024"
+      date: "2025"
     },
     {
       title: "Smart Career Recommendation System",
@@ -24,7 +24,7 @@ export default function ProjectsSection() {
       title: "Lost & Found REST API",
       desc: "Designed and developed a secure RESTful API for managing lost and found items with JWT-based authentication, CRUD operations, role-based access, and MySQL integration following REST architecture principles.",
       techs: ["Spring Boot", "REST API", "MySQL", "JWT"],
-      date: "2023"
+      date: "2026"
     },
     {
       title: "Event Booking Platform",
