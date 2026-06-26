@@ -12,9 +12,9 @@ export default function HeroSection({ typedName }) {
         </p>
         
         <div className="hero-socials">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" title="LinkedIn">in</a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" title="GitHub">⚙</a>
-          <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" title="LeetCode">LC</a>
+          <a href="https://www.linkedin.com/in/ritika-m-010606am/" target="_blank" rel="noopener noreferrer" title="LinkedIn">in</a>
+          <a href="https://github.com/ritika-M-debug" target="_blank" rel="noopener noreferrer" title="GitHub">⚙</a>
+          <a href="https://leetcode.com/u/Ritika_Mahalingam/" target="_blank" rel="noopener noreferrer" title="LeetCode">LC</a>
           <a href="mailto:ritika96013@gmail.com" title="Email">✉</a>
         </div>
 
